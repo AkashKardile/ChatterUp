@@ -1,4 +1,4 @@
-Shop Application
+ChatterUp
 
 ## Overview
 
@@ -53,11 +53,8 @@ Ensure you have the following installed:
 **Project Structure**
 
     src/
-
     ├── App.js # Main application component/ Socket.IO configuration and handlers
-
     ├── index.js # Entry point for React
-
     ├── ... # Other files and configurations
 
 ## Contributing
