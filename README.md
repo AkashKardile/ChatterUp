@@ -36,19 +36,19 @@ Ensure you have the following installed:
 
 2.  **Install dependencies**:
 
-    Using npm: npm install
-    
-    Using yarn: yarn install
+        Using npm: npm install
+        
+        Using yarn: yarn install
 
     ###### Running the Application
 
-        To start the development server:
+   To start the development server:
 
         Using npm:npm start
     
         Using yarn:yarn start
 
-        The application will be available at http://localhost:3000
+The application will be available at http://localhost:3000
 
 **Project Structure**
 
